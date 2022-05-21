@@ -1,0 +1,9 @@
+E:\Other\assasin\Cheat Project\Loader\znix-panel-v2-loader-main\bin\x64\Release\znix_panel_v2_loader.exe
+E:\Other\assasin\Cheat Project\Loader\znix-panel-v2-loader-main\bin\x64\Release\Newtonsoft.Json.xml
+E:\Other\assasin\Cheat Project\Loader\znix-panel-v2-loader-main\obj\x64\Release\znix_panel_v2_loader.csproj.AssemblyReference.cache
+E:\Other\assasin\Cheat Project\Loader\znix-panel-v2-loader-main\obj\x64\Release\znix_panel_v2_loader.csproj.CoreCompileInputs.cache
+E:\Other\assasin\Cheat Project\Loader\znix-panel-v2-loader-main\obj\x64\Release\znix_panel_v2_loader.csproj.Fody.CopyLocal.cache
+E:\Other\assasin\Cheat Project\Loader\znix-panel-v2-loader-main\obj\x64\Release\znix_panel_v2_loader.csproj.CopyComplete
+E:\Other\assasin\Cheat Project\Loader\znix-panel-v2-loader-main\obj\x64\Release\znix_panel_v2_loader.exe
+E:\Other\assasin\Cheat Project\Loader\znix-panel-v2-loader-main\obj\x64\Release\znix_panel_v2_loader.pdb
+E:\Other\assasin\Cheat Project\Loader\znix-panel-v2-loader-main\bin\x64\Release\znix_panel_v2_loader.pdb
